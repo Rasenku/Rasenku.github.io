@@ -6,13 +6,17 @@
 - :mailbox: You can reach me with the links below
 
 [Gmail]- dahveyea.cowan@gmail.com
-[LinkedIN]- https://www.linkedin.com/in/dahveyea-cowan/
+
+[LinkedIn]- https://www.linkedin.com/in/dahveyea-cowan/
 
 
 ##### Languages I use
 [Python]
+
 [Javascript]
+
 [HTML/CSS]
+
 [SQL]
 
 ##### Some of the technologies I have worked with[
